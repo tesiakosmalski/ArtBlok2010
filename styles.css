@@ -71,7 +71,7 @@ h1 {
 
 .column1of2 {
   float: left;
-  width: 66.66%;
+  width: 33.66%;
   padding; 10px;
 }
 
@@ -124,6 +124,12 @@ h2 {
   background-color: #b59047;
   padding: .25%;
 }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
 
 /* Responsive Image Grid :https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_grid_responsive> */
 
