@@ -68,6 +68,7 @@ h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif;
         color: black;
+        font-size: 24px;
       padding-bottom: .5px;}
 
 .object-fit
@@ -144,7 +145,7 @@ h1 {
   position: relative;
   text-align: center;
   color: black;
-  font-size: 50px;
+  font-size: 20px;
 }
   /* Top right text */
 .top-right {
@@ -251,6 +252,14 @@ h2 {
 
 h3 {
   color: black;
+  font-size: 14px;
+  font-weight: 300;
+
+}
+
+h4 {
+  color: black;
+  padding-top: .25px;
   font-size: 14px;
   font-weight: 200;
 
