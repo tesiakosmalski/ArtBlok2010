@@ -3,22 +3,44 @@
 
   <title>Page title</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
 </head>
 
 <body>
 
 <img src="Artblok_logo_vector.png" style="width:150px;height:120px;">
-
 <div class="topnav">
   <a class="active" href="index.html">Home</a>
   <a href="OpenInvites.html">Open Invites</a>
   <a href="Happenings.html">Happenings</a>
   <a href="Experience2010.html">Experience 2010</a>
   <a href="ArtistCreators.html">Artists & Creators</a>
-</div>
+  </div>
+
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
+
+// Declare a loop variable
+var i;
+
+// Full-width images
+function one() {
+    for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "100%";  // IE10
+    elements[i].style.flex = "100%";
+  }
+}
+</script>
+
+<div class="row">
+  <div class="column">
+    <img src="images/ErinMaurelli_03.JPG" style="width:100%">
+        <img src="images/ErinMaurelli_03.JPG" style="width:100%">
+            <img src="images/ErinMaurelli_03.JPG" style="width:100%">
+                <img src="images/ErinMaurelli_03.JPG" style="width:100%">
+              </div>
+            </div>
 
 <h1>Welcome to 2010 ArtBlok</h1>
 
