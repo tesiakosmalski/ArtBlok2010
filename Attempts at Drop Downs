@@ -1,0 +1,18 @@
+<!--  <div class="dropdown">
+  <button class="dropbtn" onclick="window.location.href = 'index.html';">Digital Literacies!<i class="fa fa-caret-down"></i></button>
+    <a class="active" href="index.html">Digital Literacy</a>
+        <div class="dropdown-content">
+        <a href="index.html">Digital Literacy</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+      </div>
+    </div>
+
+  <div class="dropdown">
+    <button class="dropbtn" onclick="window.location.href = 'Meaning_Making.html';">Meaning Making<i class="fa fa-caret-down"></i></button>
+    <div class="dropdown-content">
+    <a href="index.html">Digital Literacy</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div> -->
